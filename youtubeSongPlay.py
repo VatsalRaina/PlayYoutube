@@ -27,7 +27,7 @@ pd.options.display.max_rows = 20
 pd.options.display.width = 120
 
 # Get key from Google Developer's Console
-api_key = 'AIzaSyBVuuRbSK8dAlGg6Cct0tdSDtl6Ff6j1fk'
+api_key = ''
 url = 'https://www.googleapis.com/youtube/v3/search'
 
 parameters = {'part': 'snippet',
